@@ -196,6 +196,12 @@ this with `control-c`.
 
 ## Setup your public files
 
+Build your public files:
+
+```
+npm run build
+```
+
 Now copy your public files to `/var/www`. For example:
 
 ```
