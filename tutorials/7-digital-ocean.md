@@ -225,6 +225,7 @@ be available to all apps on our machine.
 You can run your server now with:
 
 ```
+cd back-end
 forever start server.js
 ```
 
