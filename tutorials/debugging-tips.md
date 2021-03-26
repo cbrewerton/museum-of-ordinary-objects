@@ -2,8 +2,6 @@ Here are some tips and common errors for lab 4. These do not replace the tutoria
 
 **Front end**
 
- * If you are getting a babel error when doing "npm run serve" try running "npm update --depth 5 @babel/preset-env" to fix it. 
-
  * File overview in front-end/src
    * main.js -- global data structures 
    * App.vue -- code that goes on all your pages, like a menu or a footer
