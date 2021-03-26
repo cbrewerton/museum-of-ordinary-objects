@@ -11,6 +11,7 @@ Additional functionality:
 * [Deleting Items](/tutorials/4-deleting-items.md)
 * [Editing Items](/tutorials/5-editing-items.md)
 * [Item Descriptions](/tutorials/6-item-descriptions.md)
+* [Debugging Tips](/tutorials/debugging-tips.md)
 
 Running on Digital Ocean:
 
