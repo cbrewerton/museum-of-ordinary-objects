@@ -18,7 +18,7 @@ This calls the `editItem` method when it is clicked.
 
 ## Front End JavaScript
 
-In `admin.js`, we just need to add the `editItem` method:
+In `admin.vue`, we just need to add the `editItem` method:
 
 ```javascript
     async editItem(item) {
